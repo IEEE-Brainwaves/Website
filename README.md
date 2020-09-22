@@ -1,7 +1,7 @@
 # IEEE Brainwaves 2021 Website
-![GatsbyJS Build](https://github.com/DTUSDC/site/workflows/GatsbyJS%20Build/badge.svg)
+![Netlify Status](https://api.netlify.com/api/v1/badges/d74b780e-6af4-4778-97c7-137039f4eca9/deploy-status)
 
-Welcome to the repo for DTUSDC's official website. This is a fork of ![bchiang7/v4](https://github.com/bchiang7/v4).
+Welcome to the repo for IEEE Brainwaves official website.
 
 
 ## 🛠 Installation & Set Up

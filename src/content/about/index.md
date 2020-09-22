@@ -8,6 +8,6 @@ skills:
   - 23 years of excellence
 ---
 
-DTUSDC wants to establish India as the frontrunner of innovation and progress in the booming field of artificial intelligence and industrial automation. We strive to develop an exuberant organisational culture to ensure a sustained legacy and meticulous knowledge management.
+IEEE Brainwaves wants to establish India as the frontrunner of innovation and progress in the booming field of artificial intelligence and industrial automation. We strive to develop an exuberant organisational culture to ensure a sustained legacy and meticulous knowledge management.
 
 Here's what we have achieved so far:

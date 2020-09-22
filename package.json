@@ -1,11 +1,11 @@
 {
-  "name": "dtusdc-site",
-  "description": "DTUSDC's official website",
+  "name": "ieee-djce-site",
+  "description": "IEEE Brainwaves official website",
   "version": "1.0.0",
   "author": "Ayaan Zaidi <obviyus@icloud.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dtusdc/site"
+    "url": "https://github.com/IEEE-Brainwaves/Website"
   },
   "keywords": [
     "gatsby"

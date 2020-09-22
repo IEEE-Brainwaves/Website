@@ -3,27 +3,27 @@ module.exports = {
   siteDescription:
     'IEEE Brainwaves is the official IEEE student branch of Dwarkadas J. Sanghvi College of Engineering.',
   siteKeywords: 'IEEE, DJSCE, IEEE Brainwaves, IEEE india',
-  siteUrl: 'https://dtusdc.com',
+  siteUrl: 'https://ieeedjsce.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
   name: 'IEEE Brainwaves',
   location: 'New Delhi, IN',
-  email: 'contact@dtusdc.com',
-  github: 'https://github.com/dtusdc',
+  email: 'contact@ieeedjsce.com',
+  github: 'https://github.com/IEEE-Brainwaves',
   twitterHandle: '',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/dtusdc',
+      url: 'https://github.com/IEEE-Brainwaves',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/companies/dtusdc',
+      url: 'https://www.linkedin.com/companies/IEEE-Brainwaves',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/dtusdc',
+      url: 'https://www.instagram.com/ieee_djscoe',
     },
   ],
 

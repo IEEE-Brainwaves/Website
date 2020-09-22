@@ -99,10 +99,10 @@ const Footer = ({ githubInfo }) => (
     </SocialContainer>
     <Copy>
       <GithubLink
-        href="https://github.com/dtusdc"
+        href="https://github.com/IEEE-Brainwaves"
         target="_blank"
         rel="nofollow noopener noreferrer">
-          <div>DTUSDC</div>
+          <div>IEEE Brainwaves 2020-21</div>
       </GithubLink>
     </Copy>
   </FooterContainer>
