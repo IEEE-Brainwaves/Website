@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'IEEE_DJSCE',
-        short_name: 'IEEE_DJSCE',
+        name: 'IEEE Brainwaves',
+        short_name: 'IEEE Brainwaves',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
