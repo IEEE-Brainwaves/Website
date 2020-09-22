@@ -1,4 +1,4 @@
-# DTUSDC's Website
+# IEEE Brainwaves 2021 Website
 ![GatsbyJS Build](https://github.com/DTUSDC/site/workflows/GatsbyJS%20Build/badge.svg)
 
 Welcome to the repo for DTUSDC's official website. This is a fork of ![bchiang7/v4](https://github.com/bchiang7/v4).
