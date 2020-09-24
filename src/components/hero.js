@@ -67,7 +67,8 @@ const Hero = ({ data }) => {
   const { frontmatter, html } = data[0].node;
 
   const one = () => <Hi style={{ transitionDelay: '100ms' }}>{frontmatter.title}</Hi>;
-  const two = () => <Name style={{ transitionDelay: '200ms' }}>{frontmatter.name}.</Name>;
+  const two = () => <Name style={{ transitionDelay: '200ms' }}>{frontmatter.name}</Name>;
+  const twoTwo = () => <Name style={{ transitionDelay: '200ms' }}>{frontmatter.subName}.</Name>;
   const three = () => (
     <Subtitle style={{ transitionDelay: '300ms' }}>{frontmatter.subtitle}</Subtitle>
   );
@@ -80,7 +81,7 @@ const Hero = ({ data }) => {
     </div>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, twoTwo,three, four, five];
 
   return (
     <HeroContainer>

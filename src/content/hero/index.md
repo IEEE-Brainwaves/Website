@@ -1,6 +1,7 @@
 ---
 title: 'We are'
-name: 'IEEE Brainwaves'
+name: 'IEEE'
+subName: 'Brainwaves'
 subtitle: 'Envision. Execute. Excel.'
 contactText: 'Learn More'
 ---
