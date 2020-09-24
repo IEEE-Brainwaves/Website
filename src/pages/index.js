@@ -37,7 +37,6 @@ export const pageQuery = graphql`
           frontmatter {
             title
             name
-            subName
             subtitle
             contactText
           }
