@@ -7,5 +7,5 @@ range: ''
 url: ''
 ---
 
-- We develop a self-driving vehicle whose primary objective is to mitigate road fatalities - which are generally caused by human negligence.
-- Though driverless vehicles go a long way in reducing day-to-day accidents, the robust systems that we develop may still have some loopholes and vulnerabilities. As a result, this allows malicious hackers to take advantage of such inadequacies. Any autonomous vehicle’s cyber-risk is of prime concern to insurers, regulators and policing authorities, thus, an appropriate method for risk assessment is required.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

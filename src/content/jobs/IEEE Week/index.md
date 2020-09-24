@@ -7,5 +7,5 @@ range: ''
 url: ''
 ---
 
-- For an automobile to be autonomous, it needs to be continuously aware of its surroundings—first, by perceiving (identifying and classifying information) and then acting on the information through the autonomous/computer control of the vehicle.
-- Autonomous vehicles require safe, secure, and highly responsive solutions that need to be able to make split-second decisions based on a detailed understanding of the driving environment. Understanding the driving environment requires an enormous amount of data to be captured by myriad different sensors across the car, which is then processed by the vehicle’s autonomous driving computer system.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
