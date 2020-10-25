@@ -38,7 +38,7 @@ const Title = styled.h4`
   ${media.desktop`font-size: 50px;`};
   ${media.tablet`font-size: 40px;`};
 `;
-const EmailLink = styled.a`
+const RegisterLink = styled.a`
   ${mixins.bigButton};
   margin-top: 50px;
 `;
@@ -57,9 +57,9 @@ const Contact = ({ data }) => {
 
       <div dangerouslySetInnerHTML={{ __html: html }} />
 
-      <EmailLink href={`mailto:${googleForm}`} target="_blank" rel="nofollow noopener noreferrer">
+      <RegisterLink href={`${googleForm}`} target="_blank" rel="nofollow noopener noreferrer">
         Register
-      </EmailLink>
+      </RegisterLink>
     </ContactContainer>
   );
 };

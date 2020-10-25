@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import Helmet from 'react-helmet';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { throttle } from '@utils';
-import { navLinks, navHeight } from '@config';
+import { navLinks, navHeight, googleForm } from '@config';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
 import styled from 'styled-components';
@@ -278,10 +278,10 @@ class Nav extends Component {
                 <CSSTransition classNames="fadedown" timeout={3000}>
                   <div style={{ transitionDelay: `600ms` }}>
                     <ResumeLink
-                      href="https://forms.gle/urpxLY5bCHyjSzhQ7"
+                      href={`${googleForm}`}
                       target="_blank"
                       rel="nofollow noopener noreferrer">
-                      Recruitments
+                      Register
                     </ResumeLink>
                   </div>
                 </CSSTransition>
