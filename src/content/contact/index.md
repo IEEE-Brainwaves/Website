@@ -1,5 +1,5 @@
 ---
-title: 'Get In Touch'
+title: 'Upcoming Events'
 ---
 
 - Recruit

@@ -8,6 +8,6 @@ skills:
   - 23 years of excellence
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+IEEE is the world’s largest professional association for advancement of technology. IEEE Brainwaves is the Student Chapter (code: 60401) of the IEEE in Dwarkadas J. Sanghvi College of Engineering. It is duly recognized by the IEEE, USA. IEEE Brainwaves was established in 1997. The IEEE student chapter’s sole motive is to spread awareness regarding upcoming field of technology and keep interest groups to work together and take part in various competition. The present committee of IEEE student chapter comprises of 12 members with 56 student members.
 
 Here's what we have achieved so far:
