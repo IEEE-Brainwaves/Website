@@ -1,12 +1,12 @@
 ---
 date: '1'
-title: 'nVidia'
-cover: './logo.jpg'
+title: 'Mentors'
+cover: './logo.png'
 github: ''
-external: 'https://nvidia.com/'
+external: ''
 tech:
-  - Jetson
+  - IEEE Mentorship Program
 show: 'true'
 ---
 
-NVIDIA, inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more.
+Dhaval Shroff, Hiloni Punatar, Rahul Shetty,<br> Ranveer Allahabadia, Rushabh Doshi, <br> Samuel Ramrajkar, Siddhant Gangapurwala, and Viraj Sheth
