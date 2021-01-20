@@ -10,7 +10,7 @@ module.exports = {
   name: 'IEEE Brainwaves',
   location: 'New Delhi, IN',
   email: 'contact@ieeedjsce.com',
-  googleForm: 'https://www.google.com',
+  googleForm: 'https://forms.gle/UC5E3BP8VKK3nqTK9',
   github: 'https://github.com/IEEE-Brainwaves',
   twitterHandle: '',
   socialMedia: [
