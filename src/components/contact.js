@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import sr from '@utils/sr';
-import { srConfig, email, googleForm } from '@config';
+import { srConfig, googleForm, newsletter } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media, Section, Heading } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -41,6 +41,9 @@ const Title = styled.h4`
 const RegisterLink = styled.a`
   ${mixins.bigButton};
   margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
 `;
 
 const Contact = ({ data }) => {
@@ -59,6 +62,9 @@ const Contact = ({ data }) => {
 
       <RegisterLink href={`${googleForm}`} target="_blank" rel="nofollow noopener noreferrer">
         Register
+      </RegisterLink>
+      <RegisterLink href={`${newsletter}`} target="_blank" rel="nofollow noopener noreferrer">
+        Newsletter
       </RegisterLink>
     </ContactContainer>
   );
