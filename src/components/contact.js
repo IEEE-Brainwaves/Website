@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import sr from '@utils/sr';
-import { srConfig, googleForm, newsletter } from '@config';
+import { srConfig, googleForm, newsletter, medium } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media, Section, Heading } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -63,9 +63,17 @@ const Contact = ({ data }) => {
       <RegisterLink href={`${googleForm}`} target="_blank" rel="nofollow noopener noreferrer">
         Register
       </RegisterLink>
-      <RegisterLink href={`${newsletter}`} target="_blank" rel="nofollow noopener noreferrer">
-        Newsletter
-      </RegisterLink>
+
+      <ContactContainer id="contact" ref={revealContainer}>
+        <GreenHeading>Want To Know Us More?!</GreenHeading>
+        <Title>NewsLetter And Medium</Title>
+        <RegisterLink href={`${newsletter}`} target="_blank" rel="nofollow noopener noreferrer">
+          Newsletter
+        </RegisterLink>
+        <RegisterLink href={`${medium}`} target="_blank" rel="nofollow noopener noreferrer">
+          Medium Link
+        </RegisterLink>
+      </ContactContainer>
     </ContactContainer>
   );
 };

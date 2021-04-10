@@ -12,6 +12,7 @@ module.exports = {
   email: 'contact@ieeedjsce.com',
   googleForm: 'https://forms.gle/xfi1p6xkzmZJJCL4A',
   newsletter: 'https://app.luminpdf.com/viewer/6069a3d379280c0012321765',
+  medium: 'https://ieeebrainwaves.medium.com/',
   github: 'https://github.com/IEEE-Brainwaves',
   twitterHandle: '',
   socialMedia: [
