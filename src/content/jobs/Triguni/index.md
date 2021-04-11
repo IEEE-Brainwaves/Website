@@ -1,12 +1,12 @@
 ---
 date: '2018-12-21'
 title: ''
-company: 'Triguni'
+company: 'Tableau for Advanced Analytics & BI'
 location: ''
 range: ''
 url: 'https://github.com/DTUSDC/ros'
 ---
 
-![Triguni](triguni.jpg)
+![Triguni](Tableau.png)
 
-- This workshop mainly focused on making of 3 robots: Wired, Wireless and Autonomous (Line follower) robots. The main objectives of the workshop were- To give the students a basic idea about the robotics, Basic Arduino functions, Use of ESP8266 WIFI module, IR sensor. This helped the students to gain some confidence in making robots and gave them the push required to explore this field.
+- The webinar was conducted by Sachin Nagda, Assitant Vice President, Bank of America and also an Alumni of DJSCE, marking the second session of the Alumni Chapter by IEEE. He focused on covering the advanced topics for Tableau software in the field of Data Analytics and Business Intelligence. He demonstrated outlier detection on sales figures using Tableau. This helped students looking to pursue a future in the business domain. A few visualisations were also demonstrated helping the students get an idea on how to express their findings on an industrial level

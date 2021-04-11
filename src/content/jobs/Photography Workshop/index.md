@@ -1,12 +1,12 @@
 ---
 date: '2019-12-21'
 title: ''
-company: 'Photography Workshop'
+company: 'Pixelated Photo-Editing Workshop'
 location: ''
 range: ''
 url: 'https://github.com/DTUSDC/perception'
 ---
 
-![Photography Workshop](photography.jpeg)
+![Photography Workshop](Pixelated1_sanjay.png)
 
-- IEEE arranged a photography workshop in the presence of their Alumni Mr. Jeet Gandhi who himself is an established photographer. He was here to deliver the primary knowledge to amateur photographers. The workshop focused on introducing the students to the concepts and various terms related to snap shooting. He briefed about the ISO settings, aspect ratio, exposure mode, bokeh, aperture, and many more things. An interactive session helped the students to clear their doubts effectively. Lastly, he also advised on buying the correct lenses from the market.
+- This workshop was conducted by Sanjay Chauhan covering Adobe Photoshop and turned out to recieve an overwhelming response. Topics covered included creating various effects, Bonus LUTS and color grading among many others. Each topic was explained in detail with all possible situations and designs. Making a project at the end of the workshop also helped in better understanding.
