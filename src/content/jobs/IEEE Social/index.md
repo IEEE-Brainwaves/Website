@@ -1,12 +1,12 @@
 ---
 date: '2020-12-21'
 title: ''
-company: 'IEEE Social'
+company: 'Introduction to World of Drones'
 location: ''
 range: ''
 url: ''
 ---
 
-![IEEE Social](social.jpg)
+![IEEE Social](DFI.jpg)
 
-- The day started with a bus full of excitement heading towards Prabalmachi,Panvel. After reaching there, students met the local guide Mr. Namdeo owns a restaurant on the Prabalmachi plateau. Then started the adventurous trek to Prabalmachi; about 2800 feet above the sea level. It nearly took 2 hours to reach the plateau. Though the ascent was tiring for the first timers but they enjoyed the natural beauty throughout the way. After reaching, Mr. Namdeo's family welcomed the IEEE social team. The objectives of this were to To make students socialise with the villagers.Providing an opportunity to the students to interact with villagers and have and adventurous trek experience.
+- In collaboration with Drone Federation India, the very first event of the year 2021 was Introduction to the world of drones by Mr. Smit Shah believing in technological advancements through young minds, volunteered to lead this session. He is the Director-partnerships at Drone Federation Of India. The topics covered gave us an overview of drones, their types and critical components. The Use of drones - Domestic and International and the Career as well as Entrepreneurship opportunities were discussed and thought upon, while also covering the basics of Drone Regulations.
