@@ -66,12 +66,12 @@ const Contact = ({ data }) => {
 
       <ContactContainer id="contact" ref={revealContainer}>
         <GreenHeading>Want To Know Us More?!</GreenHeading>
-        <Title>NewsLetter And Medium</Title>
+        <Title>Newsletter and Medium</Title>
         <RegisterLink href={`${newsletter}`} target="_blank" rel="nofollow noopener noreferrer">
           Newsletter
         </RegisterLink>
         <RegisterLink href={`${medium}`} target="_blank" rel="nofollow noopener noreferrer">
-          Medium Link
+          Medium
         </RegisterLink>
       </ContactContainer>
     </ContactContainer>
