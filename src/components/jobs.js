@@ -182,7 +182,7 @@ const Jobs = ({ data }) => {
 
   return (
     <JobsContainer id="jobs" ref={revealContainer}>
-      <Heading>Events</Heading>
+      <Heading>2021 Events</Heading>
       <TabsContainer>
         <Tabs role="tablist">
           {data &&
