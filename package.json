@@ -1,8 +1,8 @@
 {
-  "name": "ieee-djce-site",
+  "name": "ieee-djsce-site",
   "description": "IEEE Brainwaves official website",
   "version": "1.0.0",
-  "author": "Ayaan Zaidi <obviyus@icloud.com>",
+  "author": "IEEE Brainwaves",
   "repository": {
     "type": "git",
     "url": "https://github.com/IEEE-Brainwaves/Website"
